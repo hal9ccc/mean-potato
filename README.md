@@ -30,3 +30,11 @@ Run `grunt build` for building and `grunt serve` for preview.
 ## Testing
 
 Running `npm test` will run the unit tests with karma.
+
+## Deployment to Heroku
+
+- Follow the instructions about [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+
+- Logon to your heroku account using `heroku login`
+
+- Run `grunt buildcontrol:heroku` from your application directory to build the dist folder and publish the application to https://mean-potato.herokuapp.com/.
