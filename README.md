@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # mean-potato2
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.7.3.
@@ -40,6 +41,8 @@ Running `npm test` will run the unit tests with karma.
 
 - Run `grunt buildcontrol:heroku` from your application directory to build the dist folder and publish the application to https://mean-potato.herokuapp.com/.
 =======
+=======
+>>>>>>> 0143483204a523964ad9ae7358e320bc4a860e40
 This README.md file is displayed on your project page. You should edit this 
 file to describe your project, including instructions for building and 
 running the project, pointers to the license under which you are making the 
@@ -57,4 +60,7 @@ eye-catching graphic.
 
 Finally, consider defining some sprints and work items in Track & Plan to give 
 interested developers a sense of your cadence and upcoming enhancements.
+<<<<<<< HEAD
 >>>>>>> f879002def98ba6faa96e8bf8c8a7284db7edc8f
+=======
+>>>>>>> 0143483204a523964ad9ae7358e320bc4a860e40
