@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "mean-potato2",
   "version": "0.0.0",
   "main": "server/app.js",
@@ -116,20 +115,4 @@
     "start": "node server"
   },
   "private": true
-=======
-	"name": "NodejsStarterApp",
-	"version": "0.0.1",
-	"private": true,
-	"scripts": {
-		"start": "node app.js"
-	},
-	"dependencies": {
-		"express": "4.13.x",
-		"cfenv": "1.0.x"
-	},
-	"repository": {},
-	"engines": {
-		"node": "4.x"
-	} 
->>>>>>> 0143483204a523964ad9ae7358e320bc4a860e40
 }
